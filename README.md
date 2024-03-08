@@ -1,3 +1,4 @@
+<img align="center"   alt='banner' src="images/banner.png"/>
 <h1 align="left"> Hi 👋🏽, I’m Edwin Mendoza Rodriguez - Junior Frontend Developer </h1>
 
 <h3 >🍍 About me:</h3>
