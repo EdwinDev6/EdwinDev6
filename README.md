@@ -2,7 +2,7 @@
 <h1 align="left"> Hi 👋🏽, I’m Edwin Mendoza Rodriguez - Junior Frontend Developer </h1>
 
 <h3 >🍍 About me:</h3>
-<img align="right" alt="dev" src="https://cdni.iconscout.com/illustration/premium/thumb/male-web-developer-doing-research-on-development-5691622-4759504.png" width="380" height="320"/>
+<img align="right" alt="dev" src="images/81178b47a8598f0c81c4799f2cdd4057.gif" width="380" height="320"/>
 
 <p>Hello! I'm Edwin, a passionate frontend developer and full stack enthusiast with experience in building modern, responsive web applications. My main focus is on technologies like React,Express and Tailwind CSS.</p>
 <br>
