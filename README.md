@@ -1,6 +1,6 @@
 <img align="center"   alt='banner' src="images/banner.png"/>
 <h1 align="left"> Hi 👋🏽, I’m Edwin Mendoza Rodriguez - Junior Frontend Developer </h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 >🍍 About me:</h3>
 <img align="right" alt="dev" src="images/81178b47a8598f0c81c4799f2cdd4057.gif" width="380" height="320"/>
 
