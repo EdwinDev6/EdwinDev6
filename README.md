@@ -6,7 +6,7 @@
 
 <p>Hello! I'm Edwin, a passionate frontend developer and full stack enthusiast with experience in building modern, responsive web applications. My main focus is on technologies like React,Express and Tailwind CSS.</p>
 <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <h3 align="left">Current status:</h3>
 <p>I am currently studying modern web development. I am interested and available to collaborate on projects that involve the following technologies:</p>
@@ -20,7 +20,7 @@
 <img style="flex:1;" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ </p>
 <img align="right" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinDev6&layout=donut-vertical&theme=none" width="380" height="320"/>
 <h3 align="left">📖 Learning path: </h3>
@@ -31,7 +31,7 @@
 <a href="https://expressjs.com/es/"><img style="display:grid;" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 </div>
   <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br>
 <h3 align="left">⭐ Learning platforms: </h3>
 <p>I highly recommend this platforms if you want to learn more about programming, networking and cloud computing:</p>
@@ -45,7 +45,7 @@
 <a href="https://www.youtube.com"><img style="flex:1;" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   </div>
 <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center"> ‎ ‎ ‎ ‎ ‎ Contact Info‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Github Stats</h3>
 <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdwinDev6&show_icons=true&theme=none""/>
 
