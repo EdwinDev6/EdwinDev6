@@ -1,14 +1,14 @@
 <img align="center"   alt='banner' src="images/banner.png"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="left"> Hi 👋🏽, I’m Edwin Mendoza Rodriguez - Junior Frontend Developer </h1>
-<h3 >🍍 About me:</h3>
+<h1 align="left"> Hi 👋, I’m Edwin Mendoza Rodriguez - Junior Frontend Developer 💻 </h1>
+<h3 >👤 About me:</h3>
 <img align="right" alt="dev" src="images/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" height="300" align='top'/>
 
-<p>Hello! I'm Edwin, a passionate and enthusiastic full stack frontend developer with extensive experience in building modern, responsive web applications. My background focuses on leading technologies like React to create dynamic and highly functional user interfaces. Additionally, I excel at backend development using Express, allowing me to create robust and scalable servers for my applications. I love working with Tailwind CSS to design elegant, mobile-friendly interfaces. With a meticulous focus on code quality and user experience, I strive to deliver creative and efficient solutions that exceed expectations. I'm excited to collaborate on challenging projects and continue driving innovation in web development!</p>
+<p>👋 Hello! I'm Edwin, a passionate and enthusiastic full stack frontend developer with extensive experience in building modern, responsive web applications. 💻 My background focuses on leading technologies like React to create dynamic and highly functional user interfaces. Additionally, I excel at backend development using Express, allowing me to create robust and scalable servers for my applications. 🔧 I love working with Tailwind CSS to design elegant, mobile-friendly interfaces. 🎨 With a meticulous focus on code quality and user experience, I strive to deliver creative and efficient solutions that exceed expectations. 🚀 I'm excited to collaborate on challenging projects and continue driving innovation in web development! 🤝 Let's create something amazing together!</p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<h3 align="left">Current status:</h3>
+<h3 align="left">📚 Current status:</h3>
 <p>I am currently studying modern web development. I am interested and available to collaborate on projects that involve the following technologies:</p>
 <div style="display: flex">
 <img style="flex:1;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
