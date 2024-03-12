@@ -4,7 +4,7 @@
 <h3 >🍍 About me:</h3>
 <img align="right" alt="dev" src="images/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" height="300" align='top'/>
 
-<p>Hello! I'm Edwin, a passionate frontend developer and full stack enthusiast with experience in building modern, responsive web applications. My main focus is on technologies like React,Express and Tailwind CSS.</p>
+<p>Hello! I'm Edwin, a passionate and enthusiastic full stack frontend developer with extensive experience in building modern, responsive web applications. My background focuses on leading technologies like React to create dynamic and highly functional user interfaces. Additionally, I excel at backend development using Express, allowing me to create robust and scalable servers for my applications. I love working with Tailwind CSS to design elegant, mobile-friendly interfaces. With a meticulous focus on code quality and user experience, I strive to deliver creative and efficient solutions that exceed expectations. I'm excited to collaborate on challenging projects and continue driving innovation in web development!</p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
