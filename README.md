@@ -50,8 +50,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">‎🥇 Github Stats</h3>
 <div align="center" justify="center">
-<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdwinDev6&show_icons=true&theme=none"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdwinDev6&" alt="edwindev6" />
+<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdwinDev6&show_icons=true&theme=none"/>
 </div>
 <hr>
 <h3>💼 Contact Info‎ </h3>‎ ‎ ‎
