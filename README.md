@@ -58,7 +58,6 @@
 <p><i>Feel free to connect with me in LinkedIn if you have any questions.</i>
 <div align="left">
 <a href="https://www.linkedin.com/in/edwin-mendoza-rodr%C3%ADguez-a58a73237/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
-<div align="left">
 </div>
+
 
