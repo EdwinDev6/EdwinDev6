@@ -54,7 +54,7 @@
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdwinDev6&show_icons=true&theme=radical"/>
 </div>
 <hr>
-<h3>💼 Contact Info‎ </h3>‎ ‎ ‎
+<h3>💼 Contact Me‎ </h3>‎ ‎ ‎
 <p><i>Feel free to connect with me in LinkedIn if you have any questions.</i>
 <div align="left">
 <a href="https://www.linkedin.com/in/edwin-mendoza-rodr%C3%ADguez-a58a73237/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
