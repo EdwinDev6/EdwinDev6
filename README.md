@@ -62,7 +62,7 @@
 
 
 <div>
-<h3>Favorite OS</h3>
+<h3>🖥️ Favorite OS</h3>
 <img align="center" alt="GitHub stats" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 
   
