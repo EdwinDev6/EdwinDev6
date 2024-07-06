@@ -52,6 +52,8 @@
 <div align="center" justify="center">
 <a  align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EdwinDev6&theme=radical&card_width=465" alt="GitHub Streak" /></a>
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdwinDev6&show_icons=true&theme=radical"/>
+  <h4 align="center">My Dominican Republic Rank 🥇👇 </h4>
+<a href="https://user-badge.committers.top/dominican_republic/EdwinDev6"><img align="center" src="https://user-badge.committers.top/dominican_republic/EdwinDev6.svg"></a>
 </div>
 <hr>
 <h3>💼 Contact Me‎ </h3>‎ ‎ ‎
