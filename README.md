@@ -27,8 +27,8 @@
 <h3 align="left">📖 Learning path: </h3>
 <p>As a <i>Dev</i> my passion is building innovative and efficient solutions. Currently, I am expanding my skills and knowledge by exploring key technologies in the world of computing. I am learning the following technologies:</p>
 <div>
-<a href="#"><img style="display:grid;" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<a href="#"><img style="display:grid;" alt="Material Ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/></a>
+<a href="#"><img style="display:grid;" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="#"><img style="display:grid;" alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 </div>
   <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
