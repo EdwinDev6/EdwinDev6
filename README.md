@@ -1,6 +1,6 @@
 <img align="center"   alt='banner' src="images/banner.png"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="left"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m Edwin Mendoza Rodriguez - Junior Frontend Developer 💻 </h1>
+<h1 align="left"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m Edwin Mendoza Rodriguez - Junior Full Stack 💻 </h1>
 <h3 >👤 About me:</h3>
 <img align="right" alt="dev" src="images/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" height="300" align='top'/>
 
