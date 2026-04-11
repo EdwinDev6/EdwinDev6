@@ -62,9 +62,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=EdwinDev6&theme=radical&card_width=465"/>
   </a>
-  <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdwinDev6&show_icons=true&theme=radical"/>
-      </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
